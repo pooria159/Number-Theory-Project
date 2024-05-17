@@ -1,0 +1,16 @@
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\Q3.exe
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\Q3.deps.json
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\Q3.runtimeconfig.json
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\Q3.runtimeconfig.dev.json
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\Q3.dll
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\ref\Q3.dll
+D:\نظریه\Project\Q3\Q3\bin\Debug\net5.0\Q3.pdb
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.csprojAssemblyReference.cache
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.AssemblyInfoInputs.cache
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.AssemblyInfo.cs
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.csproj.CoreCompileInputs.cache
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.dll
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\ref\Q3.dll
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.pdb
+D:\نظریه\Project\Q3\Q3\obj\Debug\net5.0\Q3.genruntimeconfig.cache

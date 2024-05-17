@@ -1,0 +1,16 @@
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\Q2.exe
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\Q2.deps.json
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\Q2.runtimeconfig.json
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\Q2.runtimeconfig.dev.json
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\Q2.dll
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\ref\Q2.dll
+D:\نظریه\Project\Q2\Q2\bin\Debug\net5.0\Q2.pdb
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.csprojAssemblyReference.cache
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.AssemblyInfoInputs.cache
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.AssemblyInfo.cs
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.csproj.CoreCompileInputs.cache
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.dll
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\ref\Q2.dll
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.pdb
+D:\نظریه\Project\Q2\Q2\obj\Debug\net5.0\Q2.genruntimeconfig.cache
